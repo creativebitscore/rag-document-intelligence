@@ -405,6 +405,23 @@ Authentication, authorization, tenant isolation, malware scanning, encryption-at
 
 ---
 
+## 👩‍💻 Author
+
+<div align="center">
+
+### Aparna Bhadoriya
+
+**Full-Stack Developer | AI & Software Engineering**
+
+[![GitHub](https://img.shields.io/badge/GitHub-creativebitscore-181717?style=for-the-badge&logo=github)](https://github.com/creativebitscore)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel)](https://portfolio-aparna-2acc.vercel.app/)
+
+</div>
+
+---
+
+*Developed with a focus on intelligent document processing, hybrid information retrieval, and source-grounded AI responses.*
+
 <div align="center">
 
 **RAG Document Intelligence** · Retrieval engineering, grounded generation, and evidence-first AI
